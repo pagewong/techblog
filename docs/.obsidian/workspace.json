@@ -21,14 +21,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目经历/把项目从Win平台迁移到Linux平台.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目经历/把项目从Win平台迁移到Linux平台.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目经历/把项目从Win平台迁移到Linux平台.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "项目经历/把项目从Win平台迁移到Linux平台.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +150,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bccde4be3640c2d3",
+  "active": "4d807efcb71af661",
   "lastOpenFiles": [
+    "README.md",
     "_sidebar.md",
     "项目经历/把项目从Win平台迁移到Linux平台.md"
   ]
